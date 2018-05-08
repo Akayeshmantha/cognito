@@ -1,14 +1,8 @@
 {
   "name": "aws-cognito-angular-quickstart",
   "version": "1.0.0",
-  "author": "Vladimir Budilov",
+  "author": "Ayeshmantha Perera",
   "homepage": "http://cognito.budilov.com",
-  "contributors": [
-    {
-      "name": "Vladimir Budilov",
-      "url": "http://budilov.com"
-    }
-  ],
   "description": "A single-page web app, based on angular4, utilizing Amazon Cognito, S3, and DynamoDB (serverless architecture)",
   "angular-cli": {},
   "scripts": {
